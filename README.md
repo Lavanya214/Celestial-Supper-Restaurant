@@ -1,7 +1,7 @@
 # Celestial-Supper-Restaurant
 Celestial Supper is specially designed for restaurants, cafes, coffee shops, and any catering-related websites. This food website template is built with the latest web technologies like HTML5, CSS3, and Bootstrap 5 framework. This website was also created with SCSS, which can help your development speed faster and easier
 
-Key Features 
+Key Features: 
 
 Based on Bootstrap 5
 
@@ -48,7 +48,7 @@ Font awesome
 Google fonts
 
 
-In the box
+In the box:
 
 8 HTML Pages
 
@@ -61,7 +61,7 @@ Javascript source files
 Library and plugin files
 
 
-Libraries & Plugins
+Libraries & Plugins:
 
 Bootstrap 4
 
